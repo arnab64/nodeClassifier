@@ -1,4 +1,2 @@
 # nodeClassifier
-  Implementing a node.js server/client for 
-    ObjectClassification
-    StyleTransfer
+  Implementing a node.js server/client for ObjectClassification (and StyleTransfer)
